@@ -1,6 +1,13 @@
+<div align="center">
+
+### Please give the repo a :star:
+
 | Install on Aniyomi | Install on Anikku |
 |--------------------|-------------------|
 | [![Install](https://img.shields.io/badge/Click%20here%20to%20install%20this%20repo-blue&style=flat)](https://intradeus.github.io/http-protocol-redirector/?r=aniyomi://add-repo?url=https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json) | [![Install](https://img.shields.io/badge/Click%20here%20to%20install%20repo-gray?style=flat&labelColor=red)](https://intradeus.github.io/http-protocol-redirector/?r=anikku://add-repo?url=https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json) |
+
+![Visitor Count](https://count.getloli.com/get/@yuzono?theme=capoo-2)
+</div>
 
 ## Guide
 
