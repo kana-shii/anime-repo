@@ -1350,6 +1350,23 @@
     ]
   },
   {
+    "name": "Aniyomi: BLZone",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.blzone",
+    "apk": "aniyomi-en.blzone-v14.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "BLZone",
+        "lang": "en",
+        "id": "1437838328434413410",
+        "baseUrl": "https://blzone.net"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: DonghuaStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
     "apk": "aniyomi-en.donghuastream-v14.16.apk",
